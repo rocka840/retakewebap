@@ -1,5 +1,5 @@
 drop database CCR;
-create database CCR; -- covid countries and regions of planet FARAWAYSIA
+create database CCR;
 
 use CCR;
 
